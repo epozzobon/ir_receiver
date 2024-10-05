@@ -1,0 +1,4 @@
+loadfile ir_receiver/irreceiver.hex
+reset
+go
+exit
